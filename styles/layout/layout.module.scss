@@ -1,0 +1,23 @@
+.allcontent {
+    display: flex;
+    flex-direction: column;
+
+    min-height: 100vh;
+
+    .container {
+
+        flex-basis: auto;
+        flex-grow: 1;
+ 
+        .main_content {
+            display: flex;
+
+            main {
+                flex: 1;
+            }
+        }
+
+    }
+ 
+}
+
