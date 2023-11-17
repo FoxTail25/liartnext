@@ -7,6 +7,7 @@ import Header from './header';
 import Footer from './footer';
 import Aside_left from './aside_left';
 import Aside_right from './aside_right';
+import HederMenu from './hedermenu';
 
 export default function Layout({ children, home }) {
     return (
@@ -16,6 +17,8 @@ export default function Layout({ children, home }) {
             <div className={l.container}>
 
                 <div className='width_container'>
+
+                    <HederMenu/>
 
                     <div className={l.main_content}>
 

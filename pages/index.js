@@ -3,6 +3,7 @@ import { nanoid } from "nanoid";
 
 import Layout from "../components/layout/layout";
 import NewsRecord from "../components/news";
+import Head from "next/head";
 // import News from '../components/news'
 
 export default function News() {
@@ -20,14 +21,19 @@ export default function News() {
         { id: nanoid(), news_header: "news10", news_text: "text10 news text text text" },
     ]
 
-    let news = arr.map(e =>  <NewsRecord key={e.id} header={e.news_header} content = {e.news_text}/>)
+    let news = arr.map(e => <NewsRecord key={e.id} header={e.news_header} content={e.news_text} />)
 
     return (
-        <Layout>
-            <h1>Наши новости</h1>
-            <ul>
-                {news}
-            </ul>
-        </Layout>
+        <>
+            <Head>
+                <title>Новости</title>
+            </Head>
+            <Layout>
+                <h1>Новости</h1>
+                <div>
+                    {news}
+                </div>
+            </Layout>
+        </>
     )
 }

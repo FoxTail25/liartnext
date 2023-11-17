@@ -1,0 +1,38 @@
+.contacts {
+
+    padding: 0 10px;
+    text-align: center;
+
+    a{
+        color: #6b001c;
+    }
+
+    p {
+        font-size: 20px;
+
+        &:first-child {
+            font-weight: 900;
+        }
+
+        span {
+            font-weight: 700;
+        }
+
+
+
+        &:not(:first-child) {
+            font-size: 15px;
+
+        }
+    }
+
+    table {
+        margin: 0 auto;
+        border-collapse: collapse;
+
+        td {
+            border: 1px solid black;
+            font-size: 15px;
+        }
+    }
+}
