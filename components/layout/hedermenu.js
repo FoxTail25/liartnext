@@ -10,7 +10,7 @@ export default function HederMenu() {
             subMenu: null
         },
         {
-            nameHref: ["О БИБЛИОТЕКЕ",'about'],
+            nameHref: ["О БИБЛИОТЕКЕ",'/about'],
             subMenu: null
         },
         {
@@ -30,7 +30,7 @@ export default function HederMenu() {
             subMenu: null
         },
         {
-            nameHref: ["КОНТАКТЫ", 'contact'],
+            nameHref: ["КОНТАКТЫ", '/contact'],
             subMenu: null
         },
     ]

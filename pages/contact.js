@@ -71,7 +71,7 @@ export default function Contact() {
                         Справочно-информационное обслуживание:
                     </span>
                     <a href="tel:+7 916 5837339">
-                        +7 916 5837339, &thinsp;
+                        +7&nbsp;916&nbsp;5837339,&thinsp;
                     </a>
                     <a href="mailto:cio@liart.ru">
                         cio@liart.ru
