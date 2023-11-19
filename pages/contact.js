@@ -33,7 +33,7 @@ export default function Contact() {
     ]
 
     function getContactTable(arr) {
-        let tableData = arr.map(e => <tr>
+        let tableData = arr.map((e,i) => <tr key={i}>
             <td>{e.name[0]} <br /> {e.name[1]}</td>
             <td>{e.tel}</td>
             <td>

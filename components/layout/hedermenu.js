@@ -14,19 +14,19 @@ export default function HederMenu() {
             subMenu: null
         },
         {
-            nameHref: ["УСЛУГИ",'/'],
+            nameHref: ["УСЛУГИ",'/service'],
             subMenu: null
         },
         {
-            nameHref: ["ФОНДЫ",'/'],
+            nameHref: ["ФОНДЫ",'/fonds'],
             subMenu: null
         },
         {
-            nameHref: ["КАТАЛОГИ",'/'],
+            nameHref: ["КАТАЛОГИ",'/catalog'],
             subMenu: null
         },
         {
-            nameHref: ["ЭЛЕКТРОННЫЕ РЕСУРСЫ",'/'],
+            nameHref: ["ЭЛЕКТРОННЫЕ РЕСУРСЫ",'/elres'],
             subMenu: null
         },
         {
