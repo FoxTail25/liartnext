@@ -1,0 +1,27 @@
+.announce {
+    width: 232px;
+    position: relative;
+    padding: 15px 0;
+    clear: both;
+    overflow: hidden;
+    height: 100%;
+    background: url("/rightaside/shadow_rightmenu.png") no-repeat bottom;
+
+
+    a {
+
+        &:first-child {
+            float: left;
+            overflow-clip-margin: content-box;
+            overflow: clip;
+            img {
+            border: 5px solid #e0dcd0;
+            }
+        }
+
+        width: 50%;
+        font-weight: bold;
+        text-decoration: none;
+        font-size: 12px;
+    }
+}

@@ -58,41 +58,36 @@ export default function Aside_right() {
         <a href="/ru/newinlib/2758/" class="transit02">Перлина Е.В., Мельникова Е.П. Классический танец в вузах культуры и искусств: теория и методика преподавания</a>
 </div>
 
-
 <div class="announce">
-    <a href="/ru/newinlib/2757/" class="transit02"><img src="/media/uploads/newinlib/itemavatars/202311/345d862aa29f44c3bc0f50234375fe5f.jpg" alt="Криничная Н.А. Мифология воды и водоемов"></a>
-        <a href="/ru/newinlib/2757/" class="transit02">Криничная Н.А. Мифология воды и водоемов</a>
+    <a href="/ru/newinlib/2738/" class="transit02"><img src="/rightaside/97df7145e9f14bdaa137b55e05880566.jpg" alt="Душечкина Е. В., Русская елка: история, мифология, литература"></a>
+        <a href="/ru/newinlib/2738/" class="transit02">Душечкина Е. В., Русская елка: история, мифология, литература</a>
 </div>
 
-
 <div class="announce">
-    <a href="/ru/newinlib/2756/" class="transit02"><img src="/media/uploads/newinlib/itemavatars/202311/e7453edec41745a9b415fe7b22f904c3.jpg" alt="Алекс Козулин Анатомия праздника "></a>
-        <a href="/ru/newinlib/2756/" class="transit02">Алекс Козулин Анатомия праздника </a>
+    <a href="/ru/newinlib/2737/" class="transit02"><img src="/rightaside/9d6b4c895c174f0d9548c50862a2221d.jpg" alt="Мещеряков А. Н., Terra Nipponica: среда обитания и среда воображения"></a>
+        <a href="/ru/newinlib/2737/" class="transit02">Мещеряков А. Н., Terra Nipponica: среда обитания и среда воображения</a>
 </div>
 
-
 <div class="announce">
-    <a href="/ru/newinlib/2755/" class="transit02"><img src="/media/uploads/newinlib/itemavatars/202311/4e51ef7f64044ba9b9161943e864f09a.jpg" alt="Ольга Савельева Российская история рекламы учебник для бакалавров"></a>
-        <a href="/ru/newinlib/2755/" class="transit02">Ольга Савельева Российская история рекламы учебник для бакалавров</a>
+    <a href="/ru/newinlib/2736/" class="transit02"><img src="/rightaside/b9ec7b31b2ee417dbcb0aa46870d7da3.jpg" alt="Тарновский В. В., Формирование ансамбля Серафимо-Дивеевского монастыря как архитектурного и духовного центра Нижегородского края (XVIII-XX вв.): история, архитектура, традиции"></a>
+        <a href="/ru/newinlib/2736/" class="transit02">Тарновский В. В., Формирование ансамбля Серафимо-Дивеевского монастыря как архитектурного и духовного центра Нижегородского края (XVIII-XX вв.): история, архитектура, традиции</a>
 </div>
 
-
 <div class="announce">
-    <a href="/ru/newinlib/2754/" class="transit02"><img src="/media/uploads/newinlib/itemavatars/202311/adc28be139414450bd510fe83a1660fa.jpg" alt="Китайская мысль: от Конфуция до повара Дина"></a>
-        <a href="/ru/newinlib/2754/" class="transit02">Китайская мысль: от Конфуция до повара Дина</a>
+    <a href="/ru/newinlib/2735/" class="transit02"><img src="/rightaside/69db972d59ea46f9945497c3ee38142f.jpg" alt="Кинофантастика: от шедевров прошлого к блокбастерам настоящего. К 50-летию выхода на экраны фильма Андрея Тарковского &quot;Солярис&quot;"></a>
+        <a href="/ru/newinlib/2735/" class="transit02">Кинофантастика: от шедевров прошлого к блокбастерам настоящего. К 50-летию выхода на экраны фильма Андрея Тарковского "Солярис"</a>
 </div>
 
-
 <div class="announce">
-    <a href="/ru/newinlib/2753/" class="transit02"><img src="/media/uploads/newinlib/itemavatars/202311/11e6853e6e054ce084eef7177912b5d7.jpg" alt="Постсоветская молодежь: предварительные итоги"></a>
-        <a href="/ru/newinlib/2753/" class="transit02">Постсоветская молодежь: предварительные итоги</a>
+    <a href="/ru/newinlib/2734/" class="transit02"><img src="/rightaside/0e5fffcb707043819ef8b5ad52746d99.jpg" alt="Берк П., Полимат: история универсальных людей от Леонардо да Винчи до Сьюзен Сонтаг"></a>
+        <a href="/ru/newinlib/2734/" class="transit02">Берк П., Полимат: история универсальных людей от Леонардо да Винчи до Сьюзен Сонтаг</a>
 </div>
 
-
 <div class="announce">
-    <a href="/ru/newinlib/2752/" class="transit02"><img src="/media/uploads/newinlib/itemavatars/202311/56992df17c6141799756f7a97d582398.jpg" alt="Кацис Л.Ф. Политическая биография Осипа Мандельштама"></a>
-        <a href="/ru/newinlib/2752/" class="transit02">Кацис Л.Ф. Политическая биография Осипа Мандельштама</a>
+    <a href="/ru/newinlib/2733/" class="transit02"><img src="/rightaside/4450051ed2cc4e1bbd26fdd8761c12cc.jpg" alt="Игорь Грабарь: к 150-летию со дня рождения"></a>
+        <a href="/ru/newinlib/2733/" class="transit02">Игорь Грабарь: к 150-летию со дня рождения</a>
 </div>
+
 
 
 
