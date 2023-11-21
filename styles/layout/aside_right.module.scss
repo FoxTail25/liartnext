@@ -1,6 +1,31 @@
 .container {
-    width: 235px;
-    background:#ffffff;
+    width     : 235px;
+    background: #ffffff;
+    font-size : 90%;
+
+    div {
+
+        color:red;
+        // &.announce {
+        //     width: 232px;
+        //     position: relative;
+        //     padding: 15px 0;
+        //     clear: both;
+        //     overflow: hidden;
+        //     height: 100%;
+        //     background: url("/rightaside/shadow_rightmenu.png") no-repeat bottom;
+        //     a{
+        //     }
+        // }
+        a {
+            img {
+                
+                &[src="/rightaside/rss.png"] {
+                    display: inline;
+                }
+            }
+        }
+    }
 }
 
 @media (max-width: 1000px) {
