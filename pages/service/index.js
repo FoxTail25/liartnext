@@ -1,5 +1,6 @@
 import { useEffect, useRef } from "react"
 import Layout from "../../components/layout/layout"
+import Head from "next/head"
 
 export default function Service() {
     let htmlText = `<div class="content">
@@ -88,6 +89,9 @@ useEffect(()=> {
     return()=>{}
 },[])
 return <Layout>
+    <Head>
+        <title>Услуги</title>
+    </Head>
 <div ref={service}></div>
 </Layout>
 }

@@ -1,6 +1,7 @@
 import { useEffect, useRef } from "react"
 import Layout from "../components/layout/layout"
 import AboutHead from "../components/abuot_head"
+import Head from "next/head"
 
 export default function Catalog() {
     let htmlText = `<div class="content">
@@ -39,6 +40,9 @@ useEffect(()=> {
 
 return (
     <Layout>
+        <Head>
+            <title>Каталоги</title>
+        </Head>
         <AboutHead text={"Каталоги"}/>
         <div ref={catalog}></div>
     </Layout>
