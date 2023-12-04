@@ -4,7 +4,25 @@
     .header {
         height: 185px;
         background: #6b001c url(/header/background_logo_ru.png) no-repeat  center;
-        // max-width: 1024px;
         margin: 0 auto;
+        display: flex;
+        @media (max-width:700px) {
+            flex-direction: column;
+            align-items: center;
+            height: auto;
+        }
+        
     }
+    .left, .right {
+        width: 235px;
+    }
+    @media (max-width:824px) {
+        .right {
+            display: none;
+        }
+    }
+    .center {
+        flex:1
+    }
+
 }
