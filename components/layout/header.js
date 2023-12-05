@@ -268,64 +268,75 @@ let htmlTextC=`
     </div>
 `
 
-    let htmlTextR = `
-    <div class="right transit02">
-      
-            <span title="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" id="sv_button" class="transit02">
-<svg width="42" height="24" viewBox="0 0 21 12" xmlns="http://www.w3.org/2000/svg" fill="rgb(255,255,255)">
+let htmlTextR = `
+<div class="right transit02">
+    <span title="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" id="sv_button" class="transit02">
 
-<path id="sv_yey" class="control__path" d="M10.5 0c3.438 0 6.937 2.016 10.5 6.047-.844.844-1.383 1.375-1.617 1.594-.234.219-.805.703-1.711 1.453-.906.75-1.641 1.266-2.203 1.547-.563.281-1.305.578-2.227.891-.922.313-1.836.469-2.742.469-1.125 0-2.156-.141-3.094-.422-.938-.281-1.875-.766-2.813-1.453-.938-.688-1.672-1.273-2.203-1.758-.531-.484-1.328-1.273-2.391-2.367 2.031-2.031 3.836-3.539 5.414-4.523 1.578-.984 3.273-1.477 5.086-1.477zm0 10.266c1.156 0 2.148-.422 2.977-1.266.828-.844 1.242-1.844 1.242-3s-.414-2.156-1.242-3c-.828-.844-1.82-1.266-2.977-1.266-1.156 0-2.148.422-2.977 1.266-.828.844-1.242 1.844-1.242 3s.414 2.156 1.242 3c.828.844 1.82 1.266 2.977 1.266zm0-5.766c0 .438.141.797.422 1.078s.641.422 1.078.422c.313 0 .625-.109.938-.328v.328c0 .688-.234 1.273-.703 1.758-.469.484-1.047.727-1.734.727-.688 0-1.266-.242-1.734-.727-.469-.484-.703-1.07-.703-1.758s.234-1.273.703-1.758c.469-.484 1.047-.727 1.734-.727h.375c-.25.313-.375.641-.375.984z">
-</path>
-</svg></span>
+        <svg width="42" height="24" viewBox="0 0 21 12" xmlns="http://www.w3.org/2000/svg" fill="rgb(255,255,255)">
+
+        <path id="sv_yey" class="control__path" d="M10.5 0c3.438 0 6.937 2.016 10.5 6.047-.844.844-1.383 1.375-1.617 1.594-.234.219-.805.703-1.711 1.453-.906.75-1.641 1.266-2.203 1.547-.563.281-1.305.578-2.227.891-.922.313-1.836.469-2.742.469-1.125 0-2.156-.141-3.094-.422-.938-.281-1.875-.766-2.813-1.453-.938-.688-1.672-1.273-2.203-1.758-.531-.484-1.328-1.273-2.391-2.367 2.031-2.031 3.836-3.539 5.414-4.523 1.578-.984 3.273-1.477 5.086-1.477zm0 10.266c1.156 0 2.148-.422 2.977-1.266.828-.844 1.242-1.844 1.242-3s-.414-2.156-1.242-3c-.828-.844-1.82-1.266-2.977-1.266-1.156 0-2.148.422-2.977 1.266-.828.844-1.242 1.844-1.242 3s.414 2.156 1.242 3c.828.844 1.82 1.266 2.977 1.266zm0-5.766c0 .438.141.797.422 1.078s.641.422 1.078.422c.313 0 .625-.109.938-.328v.328c0 .688-.234 1.273-.703 1.758-.469.484-1.047.727-1.734.727-.688 0-1.266-.242-1.734-.727-.469-.484-.703-1.07-.703-1.758s.234-1.273.703-1.758c.469-.484 1.047-.727 1.734-.727h.375c-.25.313-.375.641-.375.984z">
+        </path>
+        </svg>
+    </span>
       
-        <span class="lang transit02">Рус</span> <a href="/en/news/" class="lang transit02">Eng</a>
+    <span class="lang transit02">
+        Рус
+    </span> 
+    <a href="/en/news/" class="lang transit02">
+        Eng
+    </a>
     
 
 
     <div class="social">
     
         
-        <a href="http://vk.com/artlibrary" target="_blank" class="transit02"><img style="margin: 6px; width:32px;" src="/header/vk1.png" alt="ВКонтакте"></a>
+        <a href="http://vk.com/artlibrary" target="_blank" class="transit02"><img style="margin: 6px; width:32px;" src="/header/vk1.png" alt="ВКонтакте">
+        </a>
         
         
         <a target="_blank" href="https://rutube.ru/channel/24617269" class="transit02">
-            <img style="margin-top: 5px;" src="/header/Rutube_74_30.jpg" onmouseover="this.src='/header/Rutube_74_30.jpg'" onmouseout="this.src='/header/Rutube_74_30.jpg'" alt="Rutube-канал Российской Государственной Библиотеки Искусств"></a>
+            <img style="margin-top: 5px;" src="/header/Rutube_74_30.jpg" onmouseover="this.src='/header/Rutube_74_30.jpg'" onmouseout="this.src='/header/Rutube_74_30.jpg'" alt="Rutube-канал Российской Государственной Библиотеки Искусств">
+        </a>
         
         
-            <a href="http://liart.ru/ru/pages/wi_fi_info/" class="transit02">
-                <img src="/header/wifi.png" width="37" height="38" align="top" style="margin-bottom: 0px;">
-            </a>
+        <a href="http://liart.ru/ru/pages/wi_fi_info/" class="transit02">
+            <img src="/header/wifi.png" width="37" height="38" align="top" style="margin-bottom: 0px;">
+        </a>
         
 
     </div>
 						
 				
-<p class="transit02">
-</p><p class="transit02">
-            </p><div class="search_catalog">
-            <a style="font-size:10.5px; font-weight:bolder" href="http://opac.liart.ru/opacg/nog.htm" target="_blank" class="transit02">
-                    
-                    ПОИСК В ЭЛЕКТРОННЫХ КАТАЛОГАХ РГБИ
+
+    <div class="search_catalog">
+
+        <a style="font-size:10.5px; font-weight:bolder" href="http://opac.liart.ru/opacg/nog.htm" target="_blank" class="transit02">
                 
-                </a>
-                    
-                    <div class="search_catalog">
-				
-				<a style="font-size:10.5px;" href="http://opac.liart.ru/opacg/nog.htm" class="transit02">ПРОСМОТР ЦИФРОВЫХ КОПИЙ</a> </div>
-             
-
- <div class="search_catalog">
-                <a style="font-size:10.5px;" href="http://opac.liart.ru/opacg/zakaz.htm" target="_blank" class="transit02">
-                    
-        ЗАКАЗ ДОКУМЕНТА В ЧИТАЛЬНЫЙ ЗАЛ
-                    </a>
-					 
-            </div>
-
+            ПОИСК В ЭЛЕКТРОННЫХ КАТАЛОГАХ РГБИ
+            
+            </a>
+        </div>
+                
+        <div class="search_catalog">
+                
+            <a style="font-size:10.5px;" href="http://opac.liart.ru/opacg/nog.htm" class="transit02">ПРОСМОТР ЦИФРОВЫХ КОПИЙ
+            </a> 
 
         </div>
-    </div>
+            
 
+        <div class="search_catalog">
+
+            <a style="font-size:10.5px;" href="http://opac.liart.ru/opacg/zakaz.htm" target="_blank" class="transit02">
+                    
+                ЗАКАЗ ДОКУМЕНТА В ЧИТАЛЬНЫЙ ЗАЛ
+            </a>
+                    
+        </div>
+
+
+</div>
 `
 
     let header = useRef()
